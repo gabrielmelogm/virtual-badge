@@ -1,0 +1,3 @@
+## TASKS
+
+- [x] Configurar ambiente
